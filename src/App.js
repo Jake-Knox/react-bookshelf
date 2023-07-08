@@ -1,6 +1,9 @@
 import logo from './logo.svg';
 import './App.css';
 
+
+// npm run in terminal
+
 function App() {
   return (
     <div className="App">
